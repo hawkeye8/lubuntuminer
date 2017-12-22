@@ -1,0 +1,1 @@
+./ethdcrminer64 -epool us-east.ethash-hub.miningpoolhub.com:17020 -ewal jtoma.1060rig -eworker jtoma.1060rig -esm 2 -epws x -allcoins 1 -dpool stratum+tcp://hub.miningpoolhub.com:20550 -dwal jtoma.1060rig -dpsw x -dcoin sc

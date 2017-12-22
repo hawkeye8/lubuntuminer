@@ -1,0 +1,14 @@
+17:21:51:927	da437740	Check and remove old log files...
+17:21:51:928	da437740	args: -epool us-east.ethash-hub.miningpoolhub.com:17020 -ewal jtoma.1060rig -eworker jtoma.1060rig -esm 2 -epsw x -allcoins 1 
+17:21:51:928	da437740	
+17:21:51:928	da437740	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+17:21:51:928	da437740	บ     Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v10.2      บ
+17:21:51:929	da437740	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+17:21:51:929	da437740	
+17:21:52:129	da437740	ETH: 1 pool is specified
+17:21:52:129	da437740	Main Ethereum pool is us-east.ethash-hub.miningpoolhub.com:17020
+17:21:52:130	da437740	DCR: 0 pool is specified
+17:21:52:139	da437740	AMD OpenCL platform not found 
+17:21:52:140	da437740	cudaGetDeviceCount failed (35, CUDA driver version is insufficient for CUDA runtime version), probably no CUDA devices
+17:21:52:140	da437740	No NVIDIA CUDA GPUs detected.
+17:21:52:140	da437740	No AMD OPENCL or NVIDIA CUDA GPUs found, exit
